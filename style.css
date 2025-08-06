@@ -1,0 +1,26 @@
+/* static/style.css */
+
+/* Change the page background */
+body {
+    background-color: #f8f9fa;
+}
+
+/* Make the table header stand out */
+table thead th {
+    background-color: #007bff;
+    color: white;
+}
+
+/* Add a shadow to cards or sections */
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+/* Make buttons a little bigger */
+.btn {
+    padding: 8px 16px;
+    font-size: 14px;
+}
